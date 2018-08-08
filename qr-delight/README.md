@@ -1,6 +1,6 @@
 ## QR Delight
 
-Delightful ways to use QR code with React.JS.
+Delightful ways to use QR code with React.JS
 
 **Installation**
 
