@@ -7,7 +7,11 @@ Delightful ways to use QR code with React.JS
 **Installation**
 
 ```bash
+//Use npm
 npm i qr-delight
+
+//Use yarn
+yarn add qr-delight
 ```
 
 **Usage**
